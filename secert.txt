@@ -13,7 +13,7 @@ BITBUCKET_TOKEN=bbpat_FRESHBitbucketToken2026_TESTxyz987654
 
 PAYPAL_CLIENT_SECRET=paypal_fresh_secret_TEST_2026_XYZabc987
 RAZORPAY_KEY=rzp_test_FRESHrazorpayKey2026XYZabc
-SQUARE_ACCESS_TOKEN=sq0atp-FRESHsquareToken2026XYZ987abc
+
 
 # Database URIs
 
