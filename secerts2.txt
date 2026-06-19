@@ -1,0 +1,66 @@
+# AWS-like
+AWS_ACCESS_KEY_ID=AKIBFAKEKEY2025ABCXY
+AWS_SECRET_ACCESS_KEY=7sFakE9r3vEryLongAndNonFunctionalEXAMPLEkey12345
+
+# GCP-like service account token
+GCP_SERVICE_ACCOUNT_KEY={"type":"service_account","project_id":"fake-project-123","private_key_id":"fakekeyid2025","private_key":"-----BEGIN PRIVATE KEY-----\nMIIEFAKEPRIVATEKEYEXAMPLE\n-----END PRIVATE KEY-----\n","client_email":"fake-sa@fake-project.iam.gserviceaccount.com"}
+
+# GitHub personal access token (alternate format)
+GITHUB_TOKEN=gho_ABCDEFGHIJKLMNOPQRSTUVWX1234567890abcd
+
+# GitLab token (alternate)
+GITLAB_TOKEN=glpat-FAKETOKEN2025ABCDEFGHIJKL
+
+# Bitbucket app password
+BITBUCKET_APP_PASSWORD=bbap_abc123_fake_pw_2025
+
+# Stripe-like publishable + secret (different)
+STRIPE_PUBLISHABLE_KEY=pk_live_FAKEpubKey2025xyz
+STRIPE_SECRET_KEY=sk_live_FAKEsecretKey2025xyzABC
+
+# PayPal REST API credentials
+PAYPAL_CLIENT_ID=AZFAKECLIENTID2025abcdef12345
+PAYPAL_SECRET=EJFAKEpaypalsecret2025_!@@#$$%%
+
+# Twilio
+TWILIO_ACCOUNT_SID=ACFAKEACCOUNTSID2025abcdef123456
+TWILIO_AUTH_TOKEN=twilio_auth_FAKEtoken_9876543210
+
+# SendGrid
+SENDGRID_API_KEY=SG.FAKE_KEY_2025_abcdefghijklmnopqrstuvwxyz
+
+# Mailgun
+MAILGUN_API_KEY=key-fakekey12345mailgun2025
+
+# Firebase Web API key
+FIREBASE_API_KEY=AIzaFAKEKEY_1234567890abcdefghijklmnop
+
+# Database URIs
+MONGO_URI=mongodb://fakeUser:FakePass!@mongo.example.com:27017/fakemongo
+POSTGRES_URL=postgresql://pguser:PgPass#2025@db.example.com:5432/fakedb
+MYSQL_URL=mysql://mysqluser:My$qlP@ss2025@mysql.example.com:3306/fakedb
+
+# DockerHub token
+DOCKERHUB_TOKEN=dockertoken_FAKE2222dockerhub2025
+
+# SSH private key (different placeholder)
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtz
+c2gtZWQyNTUxOQAAFAKEOPENSSHKEYEXAMPLE1234567890abcdef
+-----END OPENSSH PRIVATE KEY-----
+
+# OAuth client secret (different)
+OAUTH2_CLIENT_SECRET=client_secret_!FAKE_2025_zzYYxx
+
+# Generic API keys
+MAPS_API_KEY=MAPS-FAKE-KEY-2025-9Z8Y7X6W5V
+SEARCH_API_KEY=SEARCH-FAKE-KEY-2025-QWERTY12345
+
+# JWT-like token (different)
+JWT_TOKEN=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJmYWtlIn0.fakeSignature2025abc
+
+# Azure connection string (different)
+AZURE_STORAGE_CONNECTION_STRING=DefaultEndpointsProtocol=https;AccountName=fakestorage2025;AccountKey=FAKEAZUREKEY2025;EndpointSuffix=core.windows.net
+
+# Generic webhook (different service)
+WEBHOOK_URL=https://webhooks.example.com/hooks/abcd1234-FAKE-2025
